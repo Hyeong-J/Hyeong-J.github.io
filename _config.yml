@@ -28,11 +28,11 @@ urls:
 
 author_logo: profile.png
 author: Jun
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: Studying Data Analysis...
 author_email: "ignis8372@gmail.com"
 author_location: South Korea
 author_website_url: null
-typewrite-text: null
+typewrite-text: Glad you come to my Blog!
 
 # Experiences
 author_work_experiences:
@@ -60,15 +60,15 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: null
+                project_title: null
+                project_description: null
+                project_url: null
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: null
+                project_title: null
+                project_description: null
+                project_url: null
                 visibility: true
 
 # social links
