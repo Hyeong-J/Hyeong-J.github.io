@@ -1,0 +1,9 @@
+title: Hyeong-J's Dev & Work Log
+description: 하루 동안 작업한 코드와 배운 내용을 정리하는 공간입니다.
+theme: minima
+markdown: kramdown
+author:
+  name: Hyeong-J
+  email: ignis8372@gmail.com
+plugins:
+  - jekyll-feed
